@@ -7,3 +7,5 @@
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 Hello, world!
+
+# hello_app
